@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João C Fischer</h1>
-<h3 align="center">Studant</h3>
+<h3 align="center">Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fischerjoao&label=Profile%20views&color=0e75b6&style=flat" alt="fischerjoao" /> </p>
 
