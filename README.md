@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, JS, React / React Native, SQL, NOSql, UX/UI**
 
-- 📫 How to reach me **joao-fischer@hotmail.com**
 
-- ⚡ Fun fact **I like playing video games, basketball, reading books, and watching movies.**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -31,15 +29,4 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FischerJoao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=FischerJoao&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
 ![beavis-computer](https://github.com/user-attachments/assets/b4629552-8df7-4214-b1fc-253f98927c06)
